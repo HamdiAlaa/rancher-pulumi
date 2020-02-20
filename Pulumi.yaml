@@ -1,0 +1,3 @@
+name: rancher-pulumi
+runtime: nodejs
+description: Deploy kubernetes cluster in few minutes into any cloud provider

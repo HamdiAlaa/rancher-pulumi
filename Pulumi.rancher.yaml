@@ -1,0 +1,4 @@
+encryptionsalt: v1:5vd4D08v+eM=:v1:PxNlTCXvk+zzFM1k:uHhN0d/geN/nWZLJhVwH1cO4eLlLQA==
+config:
+  azure:environment: public
+  azure:location: WestUS
